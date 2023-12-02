@@ -1,3 +1,14 @@
 {
-  "index": "Introduction"
+  "index": {
+    "type": "page",
+    "title": "首页"
+  },
+  "documents": {
+    "type": "page",
+    "title": "文档"
+  },
+  "interview": {
+    "type": "page",
+    "title": "进阶"
+  }
 }

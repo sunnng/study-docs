@@ -16,14 +16,11 @@ const config: DocsThemeConfig = {
     </>
   ),
   project: {
-    link: "https://github.com/shuding/nextra-docs-template",
+    link: "https://github.com/sunnng/study-docs",
   },
-  chat: {
-    link: "https://discord.com",
-  },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/sunnng/study-docs.git",
   footer: {
-    text: "Nextra Docs Template",
+    text: "Write by sunnng",
   },
 };
 
